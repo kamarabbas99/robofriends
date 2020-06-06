@@ -1,4 +1,6 @@
 # robofriends
+It is a simple web app made with React.
+
 To run the project:
 
 1. Clone this repo
